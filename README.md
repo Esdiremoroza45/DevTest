@@ -1,2 +1,2 @@
-# DevTest123
-Sample websiteite123
+# DevTest
+Sample websiteite
